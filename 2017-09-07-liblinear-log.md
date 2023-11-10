@@ -3,6 +3,7 @@ layout: post
 title: About liblinear
 category : machine learning
 tags : [liblinear, logistic regression, 机器学习]
+description: liblinear 是个用于大规模线性分类的代码库.在流行的机器学习工具包scikit-learn中,LR和SVM线性分类器就使用这个库
 ---
 
 liblinear 是个用于大规模线性分类的代码库.在流行的机器学习工具包scikit-learn中,LR和SVM线性分类器就使用这个库.因
